@@ -1,5 +1,6 @@
 ﻿using CandidateTestTask.Data;
 using CandidateTestTask.Modals;
+using Microsoft.EntityFrameworkCore;
 
 namespace CandidateTestTask.Repositories
 {
